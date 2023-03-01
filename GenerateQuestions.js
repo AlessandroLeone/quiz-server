@@ -3,7 +3,7 @@ const he = require('he');
 const axios = require('axios')
 const categories = require('./categories.json');
 
-let key = "d795423b53234c8193b787e283b5c9cf";
+let key = "***";
 let endpoint = "https://api.cognitive.microsofttranslator.com";
 let loc = "francecentral";
 
