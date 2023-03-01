@@ -23,7 +23,7 @@ const server_name = Math.random().toString(36).substring(7);
 const http = require('http').Server(app);
 const io = require('socket.io')(http, {
     cors: {
-        origin: "http://127.0.0.1:5173",
+        origin: "*",
         methods: ["GET", "POST"]
     },
     name: server_name
