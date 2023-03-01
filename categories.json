@@ -1,0 +1,111 @@
+{   
+    "cat": [
+        {
+            "name": {"it": "Qualunque categoria", "en": "Any category"},
+            "id": 0,
+            "icon": "apps"
+        },
+        {
+            "name": {"it": "Conoscenza generale", "en": "General Knowledge"},
+            "id": 9,
+            "icon": "school"
+        },
+        {
+            "name": {"it": "Libri", "en": "Books"},
+            "id": 10,
+            "icon": "library_books"
+        },
+        {
+            "name": {"it": "Video Games", "en": "Video Games"},
+            "id": 15,
+            "icon": "videogame_asset"
+        },
+        {
+            "name": {"it": "Scienza e natura", "en": "Science and Nature"},
+            "id": 17,
+            "icon": "science"
+        },
+        {
+            "name": {"it": "Computers", "en": "Computers"},
+            "id": 18,
+            "icon": "computer"
+        },
+        {
+            "name": {"it": "Matematica", "en": "Mathematics"},
+            "id": 19,
+            "icon": "functions"
+        },
+        {
+            "name": {"it": "Mitologia", "en": "Mythology"},
+            "id": 20,
+            "icon": "bolt"
+        },
+        {
+            "name": {"it": "Sport", "en": "Sports"},
+            "id": 21,
+            "icon": "sports_handball"
+        },
+        {
+            "name": {"it": "Geografia", "en": "Geography"},
+            "id": 22,
+            "icon": "public"
+        },
+        {
+            "name": {"it": "Storia", "en": "History"},
+            "id": 23,
+            "icon": "auto_stories"
+        },
+        {
+            "name": {"it": "Politica", "en": "Politics"},
+            "id": 24,
+            "icon": "work"
+        },
+        {
+            "name": {"it": "Arte", "en": "Art"},
+            "id": 25,
+            "icon": "brush"
+        },
+        {
+            "name": {"it": "Celebrità", "en": "Celebrities"},
+            "id": 26,
+            "icon": "woman"
+        },
+        {
+            "name": {"it": "Animali", "en": "Animals"},
+            "id": 27,
+            "icon": "pets"
+        },
+        {
+            "name": {"it": "Musica", "en": "Music"},
+            "id": 12,
+            "icon": "audiotrack"
+        },
+        {
+            "name": {"it": "Film", "en": "Movie"},
+            "id": 11,
+            "icon": "videocam"
+        },
+        {
+            "name": {"it": "Scienza e tecnlogia", "en": "Science and technology"},
+            "id": 30,
+            "icon": "biotech"
+        }
+    ],
+    "amount": [5, 10, 15, 20, 30, 40, 50],
+    "difficulty": [
+        {
+            "name": {"it":"Facile", "en": "Easy"},
+            "grade": "easy"
+        },
+        {
+            "name": {"it":"Media", "en": "Medium"},
+            "grade": "medium"
+        },
+        {
+            "name": {"it":"Difficile", "en": "Hard"},
+            "grade": "hard"
+        }
+    ],
+    "type": "multiple",
+    "encode": "url3986"
+}
