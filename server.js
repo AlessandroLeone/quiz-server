@@ -1079,7 +1079,7 @@ http.on('close', () => {
     });
 });
 
-const server = http.listen(3000, () => {
+const server = http.listen(3000, '0.0.0.0', () => {
     const { port } = server.address();
     logger.info({message: `Listening on port ${port}`, line:'299', type:'socket', emit:''});
 });
